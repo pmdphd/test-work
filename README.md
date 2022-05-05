@@ -1,5 +1,5 @@
 # Price prediction Real Estate - Moscow
-Алгоритм NANME использует гибридный подход для оценка вторичной недвижимости.
-Гибридный подход сочетает в себе:
-1. Технический анализ - в анализе участвует больше 50 метрик, например, типы стен, этажность, серия дома и т.д.
-2. Фундаментальный анализ - алгоритм анализирует исторические данные, также учитываются социологические и экономические факторы страны.  Stack: Laravel, Vue JS, Python, PostgreSql.
+The NANME algorithm uses a hybrid approach to assess secondary properties.
+The hybrid approach combines:
+1. Technical analysis - more than 50 metrics are involved in the analysis, e.g. wall types, floors, building series, etc..
+2. Fundamental analysis - the algorithm analyses historical data, but also takes into account sociological and economic factors in the country.  Stack: Laravel, Vue JS, Python, PostgreSql.
